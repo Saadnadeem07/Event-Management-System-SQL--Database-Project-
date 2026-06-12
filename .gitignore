@@ -1,0 +1,32 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.cache
+*.docstates
+
+# Packages / restore
+packages/
+*.nupkg
+.nuget/
+
+# Build / publish
+publish/
+*.pdb
+*.dll.config
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
